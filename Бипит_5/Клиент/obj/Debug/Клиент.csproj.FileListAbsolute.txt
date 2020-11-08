@@ -1,0 +1,50 @@
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\bin\Debug\Клиент.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\bin\Debug\Клиент.exe
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\bin\Debug\Клиент.pdb
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\obj\Debug\Клиент.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\obj\Debug\Клиент.Form1.resources
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\obj\Debug\Клиент.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\obj\Debug\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\obj\Debug\Клиент.exe
+C:\Users\user\Desktop\Бипит\Бипит_5\Клиент\obj\Debug\Клиент.pdb
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.pdb
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Form1.resources
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.pdb
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe.config
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.pdb
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Form1.resources
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.GenerateResource.cache
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.exe
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Form1.resources
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.GenerateResource.cache
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe.config
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\bin\Debug\Клиент.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Form1.resources
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.Properties.Resources.resources
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.GenerateResource.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Клиент\obj\Debug\Клиент.pdb

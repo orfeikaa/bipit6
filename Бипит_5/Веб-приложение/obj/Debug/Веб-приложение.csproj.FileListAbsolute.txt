@@ -1,0 +1,304 @@
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll.config
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.pdb
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\WebGrease.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CopyComplete
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.pdb
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll.config
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.pdb
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe.config
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.rsp
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe.config
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.rsp
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.AppContext.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Console.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Http.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.ValueTuple.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe.config
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.rsp
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\WebGrease.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.xml
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.xml
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.pdb
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CopyComplete
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.dll
+C:\Users\Алиса\Desktop\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll.config
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe.config
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.rsp
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe.config
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.rsp
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.AppContext.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Console.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Http.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.ValueTuple.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe.config
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.rsp
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\WebGrease.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.xml
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.xml
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CopyComplete
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Веб-приложение.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csc.rsp
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\csi.rsp
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.AppContext.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Console.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Http.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.ValueTuple.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\vbc.rsp
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\WebGrease.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\System.Web.Optimization.xml
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Newtonsoft.Json.xml
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Antlr3.Runtime.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csproj.CopyComplete
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Веб-приложение\obj\Debug\Веб-приложение.csprojAssemblyReference.cache

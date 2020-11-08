@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\bin\Debug\Сервер.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\bin\Debug\Сервер.exe
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\bin\Debug\Сервер.pdb
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\bin\Debug\Бипит_5.dll
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\bin\Debug\Бипит_5.pdb
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\obj\Debug\Сервер.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CopyComplete
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\obj\Debug\Сервер.exe
+C:\Users\user\Desktop\Бипит\Бипит_5\Сервер\obj\Debug\Сервер.pdb
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.exe.config
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.pdb
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\bin\Debug\Бипит_5.dll
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\bin\Debug\Бипит_5.pdb
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CopyComplete
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.exe
+C:\Users\user\Desktop\Бипит\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\bin\Debug\Бипит_5.dll
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\bin\Debug\Бипит_5.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.exe.config
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.exe
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.pdb
+C:\Users\Алиса\Desktop\Bipit_6 — копия\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CopyComplete
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.exe.config
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\bin\Debug\Сервер.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\bin\Debug\Бипит_5.dll
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\bin\Debug\Бипит_5.pdb
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csprojAssemblyReference.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CoreCompileInputs.cache
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.csproj.CopyComplete
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.exe
+C:\Users\Алиса\Desktop\бипип НАСТЯ\Bipit_6\Бипит_6\Бипит_5\Сервер\obj\Debug\Сервер.pdb
